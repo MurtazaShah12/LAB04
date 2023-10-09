@@ -1,0 +1,13 @@
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\bin\Debug\netcoreapp3.1\LAB04 (Visual Programming).exe
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\bin\Debug\netcoreapp3.1\LAB04 (Visual Programming).deps.json
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\bin\Debug\netcoreapp3.1\LAB04 (Visual Programming).runtimeconfig.json
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\bin\Debug\netcoreapp3.1\LAB04 (Visual Programming).runtimeconfig.dev.json
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\bin\Debug\netcoreapp3.1\LAB04 (Visual Programming).dll
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\bin\Debug\netcoreapp3.1\LAB04 (Visual Programming).pdb
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\obj\Debug\netcoreapp3.1\LAB04 (Visual Programming).csprojAssemblyReference.cache
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\obj\Debug\netcoreapp3.1\LAB04 (Visual Programming).AssemblyInfoInputs.cache
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\obj\Debug\netcoreapp3.1\LAB04 (Visual Programming).AssemblyInfo.cs
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\obj\Debug\netcoreapp3.1\LAB04 (Visual Programming).csproj.CoreCompileInputs.cache
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\obj\Debug\netcoreapp3.1\LAB04 (Visual Programming).dll
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\obj\Debug\netcoreapp3.1\LAB04 (Visual Programming).pdb
+C:\Users\213024\source\repos\LAB04 (Visual Programming)\LAB04 (Visual Programming)\obj\Debug\netcoreapp3.1\LAB04 (Visual Programming).genruntimeconfig.cache
